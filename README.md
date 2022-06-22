@@ -2,7 +2,7 @@
 <img src= "img/robot.png" align = "right" width="79px"/>
 </p>
 
-# Machine Learning
+# Machine Learning 🤖💻
 
 <p align = "right">
 <img src = "img/anime_deeplearning.jpg" align = "right" width = "250px"/>
